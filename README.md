@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khurram Jalil</h1>
 <h3 align="center">AWS Certified Cloud Practitioner, Certified SAFe 5 Practitioner, Technology Leader/Coach, ReactJS, C#, .Net, Full Stack, Sr. Lead Software Developer</h3>
-
+<img align="right" width="400px" alt="Animated Developer" src="https://github.com/KhurramJalil/KhurramJalil/blob/main/Animated_Developer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khurramjalil&label=Profile%20views&color=0e75b6&style=flat" alt="khurramjalil" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhurramJalil](https://github.com/KhurramJalil)
