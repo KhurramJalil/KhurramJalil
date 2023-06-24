@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **khurram.jalil@hotmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1uobPFHiH-bD2AHtRYUo5gP7eAREafCc4yg0j3rZKdzY/edit?usp=share_link](https://docs.google.com/document/d/1uobPFHiH-bD2AHtRYUo5gP7eAREafCc4yg0j3rZKdzY/edit?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jBpNPuONxnNSTBLuXKjYYkLXL--9Jo3k/view?usp=sharing](https://drive.google.com/file/d/1jBpNPuONxnNSTBLuXKjYYkLXL--9Jo3k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
