@@ -1,6 +1,6 @@
 ![Header](https://github.com/KhurramJalil/KhurramJalil/blob/main/GitHubProfileBanner.png)
 <h1 align="center">Hi 👋, I'm Khurram Jalil</h1>
-<h3 align="center">AWS Certified Cloud Practitioner, Apollo Certified GraphQL Developer, Certified SAFe 5 Practitioner, Associate Director, Technology Leader/Coach, ReactJS, C#, .Net, Full Stack, Sr. Lead Software Developer</h3>
+<h3 align="center">AWS Certified Cloud Practitioner, Apollo Certified Graph Developer Professional, Certified SAFe 5 Practitioner, Associate Director, Technology Leader/Coach, ReactJS, C#, .Net, Full Stack, Sr. Lead Software Developer</h3>
 <img align="right" width="400px" alt="Animated Developer" src="https://github.com/KhurramJalil/KhurramJalil/blob/main/Animated_Developer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khurramjalil&label=Profile%20views&color=0e75b6&style=flat" alt="khurramjalil" /> </p>
 
